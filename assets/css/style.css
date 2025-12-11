@@ -4,14 +4,12 @@ body{
 }
 
 h1{
-
-    position: relative;
-    right: -10%;
-    align-items: end;
+    text-align: center;
 }
 
 .container{
-    width: 460px;
+    width: 100%;
+    max-width: 460px;
     background-color: rgb(255, 255, 255);
     margin: 100px auto;
     padding: 40px;
@@ -24,20 +22,22 @@ input{
     height: 30px;
     font-size: 20px;
     padding: 4px;
-    width: calc(40% - 20px);
     background-color: #ececec;
     margin: 10px;
     border: none;
+    width: 100%;
+    max-width: 200px;
 }
 
 h4, h5{
-    width: 450px;
+
+    width: 100%;
     font-size: 20px;
     border-radius: 8px;
     background-color: #dedede;
     height: 30px;
     position: relative;
-    margin: 15px -10px;
+    margin: 15px -20px;
     padding: 14px;
     align-items: center;
 }
@@ -53,5 +53,4 @@ h5{
 label{
     font-family: 'Poppins', sans-serif !important;
     font-size: 20px;
-
 }
