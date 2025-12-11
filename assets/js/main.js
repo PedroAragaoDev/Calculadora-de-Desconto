@@ -12,4 +12,6 @@
 }
 
     document.querySelector('#percentualDeDesconto').addEventListener('input',atualizarCalculo)
+    document.querySelector('#valorOriginal').addEventListener('input',atualizarCalculo)
+
 
