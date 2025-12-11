@@ -1,9 +1,9 @@
-#🧮 Calculadora de Descontos
+# 🧮 Calculadora de Descontos
 
 Uma calculadora simples e direta para aplicar descontos em produtos, exibindo o valor descontado e o preço final automaticamente.
 Ideal para estudo de JavaScript, manipulação de DOM, eventos e estilização com CSS.
 
-##📦 Funcionalidades
+## 📦 Funcionalidades
 
 ✔️ Cálculo automático do desconto
 ✔️ Exibição do valor descontado em reais
@@ -11,7 +11,7 @@ Ideal para estudo de JavaScript, manipulação de DOM, eventos e estilização c
 ✔️ Interface limpa e estilizada
 ✔️ Atualização instantânea enquanto o usuário digita
 
-##🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 HTML5
 
@@ -19,7 +19,7 @@ CSS3
 
 JavaScript (Vanilla)
 
-##📚 Aprendizados
+## 📚 Aprendizados
 
 Neste projeto foi praticado:
 
