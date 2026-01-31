@@ -6,9 +6,13 @@ Ideal para estudo de JavaScript, manipulação de DOM, eventos e estilização c
 ## 📦 Funcionalidades
 
 ✔️ Cálculo automático do desconto
+
 ✔️ Exibição do valor descontado em reais
+
 ✔️ Exibição do preço final com desconto
+
 ✔️ Interface limpa e estilizada
+
 ✔️ Atualização instantânea enquanto o usuário digita
 
 ## 🛠️ Tecnologias Utilizadas
